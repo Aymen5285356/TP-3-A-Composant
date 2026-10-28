@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GestionEtudiants" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+    </style>
+
+    <style name="Theme.GestionEtudiants" parent="Base.Theme.GestionEtudiants" />
+    <style name="Theme.TP3A_Composant" parent="Base.Theme.GestionEtudiants" />
+</resources>
